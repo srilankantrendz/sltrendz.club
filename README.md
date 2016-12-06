@@ -1,2 +1,1 @@
-# sltrendz.club
-sltrendz.club :SRC
+# srilankantrendz.github.io
